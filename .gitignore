@@ -2,5 +2,5 @@
 *.pdf
 
 #ignoring the vscode and the CPH extension folders
-/.vscode/*
-/.cph/*
+#/.vscode/*
+#/.cph/*
