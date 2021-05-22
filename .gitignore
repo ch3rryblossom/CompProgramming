@@ -1,2 +1,6 @@
 #ignoring pdfs that i download to read
 *.pdf
+
+#ignoring the vscode and the CPH extension folders
+/.vscode/*
+/.cph/*
